@@ -1,5 +1,25 @@
-## Hi there 👋
+### Hey, I'm Navnit 👋  
+Motivated AI developer | LLM researcher | Prompt engineer in training  
+Building things that talk, learn, and help humans level up. 
 
+🛠️ Currently focused on:
+- Mastering JavaScript + SQL through hands-on sprints
+- Building a portfolio of AI-powered web tools
+- Learning personal styling for my fashion brand [StyleHaven.blog](https://stylehaven.blog)
+
+📚 Currently Learning
+- Frontend dev with JS, async, fetch
+- SQL joins + subqueries
+- Styling principles & personal brand building
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+📫 Reach me:
+- LinkedIn: [[linkedin.com/in/navnitsinha]](https://www.linkedin.com/in/navnit-sinha-906437215/)
+- Portfolio: [StyleHaven.blog](https://stylehaven.blog)
+- GitHub: You're already here 😄
 <!--
 **NavnitSinha/NavnitSinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
