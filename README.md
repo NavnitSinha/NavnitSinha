@@ -1,6 +1,6 @@
 ### Hey, I'm Navnit 👋  
-Motivated AI developer | LLM researcher | Prompt engineer in training  
-Building things that talk, learn, and help humans level up. 
+Motivated AI developer | LLM researcher | Prompt engineer in training  | Entrepreneur 
+Building things that talk, learn, and help humans level up with brands that empower people.
 
 🛠️ Currently focused on:
 - Mastering JavaScript + SQL through hands-on sprints
@@ -12,9 +12,10 @@ Building things that talk, learn, and help humans level up.
 - SQL joins + subqueries
 - Styling principles & personal brand building
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Frameworks:** Flask, Node.js (learning)  
+**AI Tools:** OpenAI APIs, LLM fine-tuning, Latent Concept Models (LCM)  
+**Other:** Git, REST APIs, HTML/CSS, prompt engineering
 
 📫 Reach me:
 - LinkedIn: [[linkedin.com/in/navnitsinha]](https://www.linkedin.com/in/navnit-sinha-906437215/)
