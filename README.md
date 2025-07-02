@@ -20,7 +20,7 @@ Building things that talk, learn, and help humans level up with brands that empo
 **Other:** Git, REST APIs, HTML/CSS, prompt engineering
 
 📫 Reach me:
-- LinkedIn: [[linkedin.com/in/navnitsinha]](https://www.linkedin.com/in/navnit-sinha-906437215/)
+- LinkedIn: [[linkedin.com/in/navnitsinha]](https://www.linkedin.com/in/navnitsinha-dev/)
 - Portfolio: [StyleHaven.blog](https://stylehaven.blog)
 - GitHub: You're already here 😄
 <!--
