@@ -31,10 +31,10 @@ AI Edge: Prompt Engineering, AI-powered insights, Automation
 
 📊 Projects (Portfolio-ready)
 
-Retail Sales Dashboard (Power BI) – Interactive KPIs & trend insights
-Customer Segmentation (Python) – K-means clustering on e-commerce data
-Sales Data Analysis (SQL + Excel) – Cleaned 50k+ records, analyzed trends
-AI-Powered Data Insights – Automated reports using prompts + Python
+1. Retail Sales Dashboard (Power BI) – Interactive KPIs & trend insights
+2. Customer Segmentation (Python) – K-means clustering on e-commerce data
+3. Sales Data Analysis (SQL + Excel) – Cleaned 50k+ records, analyzed trends
+4. AI-Powered Data Insights – Automated reports using prompts + Python
 
 📫 Reach me
 
