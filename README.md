@@ -36,12 +36,10 @@ AI Edge: Prompt Engineering, AI-powered insights, Automation
 3. Sales Data Analysis (SQL + Excel) – Cleaned 50k+ records, analyzed trends
 4. AI-Powered Data Insights – Automated reports using prompts + Python
 
-📫 Reach me
-
 📫 Reach me: 
 - LinkedIn: [[linkedin.com/in/navnitsinha]](https://www.linkedin.com/in/navnitsinha-dev/) 
 - Portfolio: Coming Soon 🚀
-- - GitHub: You're already here 😄
+- GitHub: You're already here 😄
 <!--
 **NavnitSinha/NavnitSinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
