@@ -38,9 +38,10 @@ AI Edge: Prompt Engineering, AI-powered insights, Automation
 
 📫 Reach me
 
-LinkedIn: [linkedin.com/in/navnitsinha](https://www.linkedin.com/in/navnitsinha-dev/)
-Portfolio: coming soon 🚀
-GitHub: You’re already here 😄
+📫 Reach me: 
+- LinkedIn: [[linkedin.com/in/navnitsinha]](https://www.linkedin.com/in/navnitsinha-dev/) 
+- Portfolio: Coming Soon 🚀
+- - GitHub: You're already here 😄
 <!--
 **NavnitSinha/NavnitSinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
