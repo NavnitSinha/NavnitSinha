@@ -1,28 +1,54 @@
-### Hey, I'm Navnit 👋  
-Motivated AI developer | LLM researcher | Prompt engineer in training  | Entrepreneur 
+👋 Hey, I'm Navnit
 
-Building things that talk, learn, and help humans level up with brands that empower people.
+Data Analyst | AI-Integrated Insights | Problem Solver
+
+I analyze, clean, and visualize data to uncover insights that drive decisions 🚀.
+Blending data analytics with AI-powered automation, I build smart dashboards, streamline reporting, and extract meaningful stories from raw datasets.
 
 🛠️ Currently focused on:
-- Mastering JavaScript + SQL through hands-on sprints
-- Building a portfolio of AI-powered web tools
-- Learning personal styling for my fashion brand [StyleHaven.blog](https://stylehaven.blog)
+
+Mastering SQL & Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+Building interactive dashboards with Power BI
+
+Hands-on projects: Sales Analysis, Customer Segmentation, Retail Insights
+
+Exploring how AI + Prompt Engineering can enhance analytics
 
 📚 Currently Learning
-- Frontend dev with JS, async, fetch
-- SQL joins + subqueries
-- Styling principles & personal brand building
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+EDA, ETL basics, and Data Cleaning
 
-**Frameworks:** Flask, Node.js (learning)  
-**AI Tools:** OpenAI APIs, LLM fine-tuning, Latent Concept Models (LCM)  
-**Other:** Git, REST APIs, HTML/CSS, prompt engineering
+DAX in Power BI for advanced KPI tracking
 
-📫 Reach me:
-- LinkedIn: [[linkedin.com/in/navnitsinha]](https://www.linkedin.com/in/navnitsinha-dev/)
-- Portfolio: [StyleHaven.blog](https://stylehaven.blog)
-- GitHub: You're already here 😄
+Storytelling with Data Visualization
+
+AI-assisted workflows for faster analytics
+
+⚡ Technical Skills
+
+Languages & Tools:
+
+Visualization & Analysis: Pandas, NumPy, Matplotlib, Seaborn, Power Query
+AI Edge: Prompt Engineering, AI-powered insights, Automation
+
+📊 Projects (Portfolio-ready)
+
+Retail Sales Dashboard (Power BI) – Interactive KPIs & trend insights
+
+Customer Segmentation (Python) – K-means clustering on e-commerce data
+
+Sales Data Analysis (SQL + Excel) – Cleaned 50k+ records, analyzed trends
+
+AI-Powered Data Insights – Automated reports using prompts + Python
+
+📫 Reach me
+
+LinkedIn: [linkedin.com/in/navnitsinha]
+
+Portfolio: coming soon 🚀
+
+GitHub: You’re already here 😄
 <!--
 **NavnitSinha/NavnitSinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
