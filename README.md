@@ -1,4 +1,4 @@
-#👋 Hey, I'm Navnit
+###👋 Hey, I'm Navnit
 
 Data Analyst | AI-Integrated Insights | Problem Solver
 
